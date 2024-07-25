@@ -52,24 +52,15 @@ h1, h2 {
   font-size: 18px;
 }
 
-.flavor, .dessert {
+.about, .about1 {
   text-align: left;
-  width: 75%;
-}
-
-.price {
-  text-align: right;
-  width: 25%;
+  margin-right: 20px;
 }
 
 /* FOOTER */
 
 footer {
   font-size: 14px;
-}
-
-.address {
-  margin-bottom: 5px;
 }
 
 a {
